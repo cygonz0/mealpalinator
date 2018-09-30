@@ -1,5 +1,7 @@
 # mealpalinator
 
+[![GuardRails badge](https://badges.production.guardrails.io/v00d00sec/mealpalinator.svg)](https://www.guardrails.io)
+
 ### Overview
 CLi tool to automate mealpal orders in San Francisco (e.g. using cron jobs).
 
